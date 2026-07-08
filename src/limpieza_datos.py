@@ -1,0 +1,12 @@
+import pandas as pd 
+df = pd.read_csv("data/SuperMarket Analysis.csv")
+print(df.head())
+print(df.info())
+print("\nValores nulos por columnas:")
+print(df.isnull().sum())
+print("\nFilas duplicadas:")
+print(df.duplicated().sum())
+df = df.drop_duplicates()
+df = df.dropna()
+df.to_csv("data/SuperMarket Analysis_Limpio.csv", index=False)
+print("\nLimpieza de datos completada.")
