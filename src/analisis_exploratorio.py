@@ -51,4 +51,4 @@ def realizar_analisis_micromercado(ruta_archivo):
 
 if __name__ == "__main__":
 
-    realizar_analisis_micromercado('/content/SuperMarket-Analysis/data/SuperMarket Analysis.csv')
+    realizar_analisis_micromercado('/content/SuperMarket-Analysis/data/SuperMarket Analysis_Limpio.csv')
