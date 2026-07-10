@@ -268,11 +268,11 @@ def grafico_pastel_categoria(df):
 
     plt.show()    
 
-if __name__ == "__main__":
+if __name__ == "__main__":  #condicion que controla archivo.py se ejecuta. 
 
     df = cargar_datos(RUTA_ARCHIVO)
 
-    if df is not None:
+    if df is not None:  #variable df tiene algún valor (es decir, no está vacía y no es None), entonces ejecuta el código que está dentro
 
         grafico_ventas_categoria(df)
 
