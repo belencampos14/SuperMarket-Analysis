@@ -60,11 +60,9 @@ Analizar los datos de ventas de un supermercado para obtener información útil 
 # 👥 Integrantes
 
 - Belén Campos
-- Adrián Lara Ramos
-- Integrante 3
-- Integrante 4
-
-*(Reemplazar los nombres que falten.)*
+- Edgar Crespo
+- Hitler Campoverde
+- Adrian Lara
 
 ---
 
