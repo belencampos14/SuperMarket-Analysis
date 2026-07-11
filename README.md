@@ -107,30 +107,25 @@ A partir del análisis de los datos se identificaron los siguientes hallazgos:
 
 # 📈 Capturas de los gráficos
 
-Guarde las imágenes generadas dentro de una carpeta llamada **images** y luego agréguelas aquí.
+## Ventas totales por línea de producto
 
-Ejemplo:
-
-```markdown
-## Ventas totales línea de producto
-
-results/01-ventas_categoria.png
+![Ventas por categoría](results/01-ventas_categoria.png)
 
 ## Ventas por ciudad y sucursal
 
-results/02_ventas_ciudad_sucursal.png
+![Ventas por ciudad y sucursal](results/02_ventas_ciudad_sucursal.png)
 
 ## Gasto por tipo de cliente y género
 
-results/03_cliente_genero.png
+![Gasto por tipo de cliente y género](results/03_cliente_genero.png)
 
 ## Distribución de ventas del supermercado
 
-results/04_distribucion_ventas.png
+![Distribución de ventas](results/04_distribucion_ventas.png)
 
-## Participaciòn porcentual de ventas por categoría
+## Participación porcentual de ventas por categoría
 
-results/05_participacion_categoria.png
+![Participación por categoría](results/05_participacion_categoria.png)
 
 ```
 
