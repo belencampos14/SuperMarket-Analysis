@@ -141,7 +141,7 @@ A partir del análisis de los datos se identificaron los siguientes hallazgos:
 ```
 # ▶️ Cómo ejecutar el proyecto
 
-1. Clonar el repositorio
+## 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/belencampos14/SuperMarket-Analysis.git
