@@ -60,9 +60,9 @@ Analizar los datos de ventas de un supermercado para obtener información útil 
 # 👥 Integrantes
 
 - Belén Campos
-- Adrián Lara Ramos
-- Integrante 3
-- Integrante 4
+- Edgar Crespo
+- Hitler Campoverde
+- Adrian Lara
 
 *(Reemplazar los nombres que falten.)*
 
@@ -109,26 +109,33 @@ A partir del análisis de los datos se identificaron los siguientes hallazgos:
 
 # 📈 Capturas de los gráficos
 
-Guarde las imágenes generadas dentro de una carpeta llamada **images** y luego agréguelas aquí.
+## Ventas totales por línea de producto
 
-Ejemplo:
+![Ventas por categoría](results/01-ventas_categoria.png)
 
-```markdown
-## Ventas por línea de producto
+---
 
-![Ventas por producto](images/ventas_producto.png)
+## Ventas por ciudad y sucursal
 
-## Ventas por sucursal
+![Ventas por ciudad y sucursal](results/02_ventas_ciudad_sucursal.png)
 
-![Ventas por sucursal](images/ventas_sucursal.png)
+---
 
-## Métodos de pago
+## Gasto por tipo de cliente y género
 
-![Métodos de pago](images/metodos_pago.png)
+![Gasto por tipo de cliente y género](results/03_cliente_genero.png)
 
-## Calificaciones de clientes
+---
 
-![Rating](images/rating.png)
+## Distribución de ventas del supermercado
+
+![Distribución de ventas](results/04_distribucion_ventas.png)
+
+---
+
+## Participación porcentual de ventas por categoría
+
+![Participación por categoría](results/05_participacion_categoria.png)
 ```
 
 ---
