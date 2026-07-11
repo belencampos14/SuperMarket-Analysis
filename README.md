@@ -1,4 +1,4 @@
-hhaa
+
 # 🛒 SuperMarket Analysis
 
 ## 📖 Descripción del proyecto
@@ -112,21 +112,26 @@ Guarde las imágenes generadas dentro de una carpeta llamada **images** y luego 
 Ejemplo:
 
 ```markdown
-## Ventas por línea de producto
+## Ventas totales línea de producto
 
-![Ventas por producto](images/ventas_producto.png)
+results/01-ventas_categoria.png
 
-## Ventas por sucursal
+## Ventas por ciudad y sucursal
 
-![Ventas por sucursal](images/ventas_sucursal.png)
+results/02_ventas_ciudad_sucursal.png
 
-## Métodos de pago
+## Gasto por tipo de cliente y género
 
-![Métodos de pago](images/metodos_pago.png)
+results/03_cliente_genero.png
 
-## Calificaciones de clientes
+## Distribución de ventas del supermercado
 
-![Rating](images/rating.png)
+results/04_distribucion_ventas.png
+
+## Participaciòn porcentual de ventas por categoría
+
+results/05_participacion_categoria.png
+
 ```
 
 ---
