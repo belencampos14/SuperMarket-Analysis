@@ -136,7 +136,6 @@ A partir del análisis de los datos se identificaron los siguientes hallazgos:
 
 ![Participación por categoría](results/05_participacion_categoria.png)
 ```
-
 ```
 # ▶️ Cómo ejecutar el proyecto
 
