@@ -64,7 +64,6 @@ Analizar los datos de ventas de un supermercado para obtener información útil 
 - Hitler Campoverde
 - Adrian Lara
 
-*(Reemplazar los nombres que falten.)*
 
 ---
 
@@ -140,7 +139,7 @@ A partir del análisis de los datos se identificaron los siguientes hallazgos:
 
 ---
 
-# ▶️ Cómo ejecutar el proyecto
+## ▶️ Cómo ejecutar el proyecto
 
 ## 1. Clonar el repositorio
 
