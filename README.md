@@ -37,23 +37,23 @@ Analizar los datos de ventas de un supermercado para obtener información útil 
 
 ### Variables principales
 
-- Invoice ID
-- Branch
-- City
-- Customer type
-- Gender
-- Product line
-- Unit price
-- Quantity
-- Tax 5%
-- Sales
-- Date
-- Time
-- Payment
-- COGS
-- Gross margin percentage
-- Gross income
-- Rating
+- ID de factura
+- Sucursal
+- Ciudad
+- Tipo de cliente
+- Género
+- Línea de producto
+- Precio unitario
+- Cantidad
+- Impuesto (5%)
+- Ventas
+- Fecha
+- Hora
+- Pago
+- Costo de bienes vendidos (COGS)
+- Porcentaje de margen bruto
+- Ingreso bruto
+- Valoración
 
 ---
 
