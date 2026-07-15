@@ -1,5 +1,5 @@
 
-# 🛒 SuperMarket Analysis
+# 🛒 Analisis del Supermercado
 
 ## 📖 Descripción del proyecto
 
